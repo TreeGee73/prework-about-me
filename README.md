@@ -5,7 +5,7 @@ to demonstrate understanding of [specific concepts like: REST APIs, MongoDB, Rea
 
 **Status:** Archived - No longer under active development
 **Purpose:** Portfolio demonstration of technical concepts
-**Completed:** [Month Year]
+**Completed:** October 2020
 
 ---
 
